@@ -107,9 +107,4 @@ Se utilizó el dataset CIFAR-10, que contiene:
   * 50,000 imágenes de entrenamiento
   * 10,000 imágenes de prueba
 
----
-
-## Autor
-
-Proyecto desarrollado como parte de un taller de Visión por Computadora.
 
