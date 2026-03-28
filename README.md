@@ -109,14 +109,6 @@ Se utilizó el dataset CIFAR-10, que contiene:
 
 ---
 
-## Observaciones
-
-* El modelo logra una precisión aproximada entre 70% y 80% dependiendo del entrenamiento.
-* Algunas clases pueden presentar mayor confusión debido a similitudes visuales.
-* El uso de regularización (Dropout) ayuda a reducir el sobreajuste.
-
----
-
 ## Autor
 
 Proyecto desarrollado como parte de un taller de Visión por Computadora.
